@@ -37,6 +37,18 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Нормально его отредактироват, ибо я всё скопировал)
+* [ ] найти нормальные фото Languages and Tools
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
+
+Мне нравиться [Go](https://golang.org).
+
+* Not Long-time Golang user&contributor
+* No Google Dev Expert for Go
+* No Author of many Go tools
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=40)
+
