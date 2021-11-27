@@ -27,6 +27,4 @@
 
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=monokai)
-
-<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=monokai)
