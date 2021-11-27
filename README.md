@@ -56,5 +56,5 @@
 * No Author of many Go tools
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=dracula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=Gradient)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=Gradient)
