@@ -57,5 +57,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&hide=html)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&count_private=true&line_height=40)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=dracula)
