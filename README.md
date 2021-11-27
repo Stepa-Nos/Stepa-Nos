@@ -1,4 +1,6 @@
-## Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Меня зовут Степан, я студент. Сейчас изучаю много интересных технологий)
+
 
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
@@ -12,12 +14,7 @@
 
 
 <br />
-<br />
 
-Меня зовут Степан, я студент. Сейчас изучаю много интересных технологий)
-
-<br />
-<br />  
 
 ## 🧰 Languages and Tools:
 
