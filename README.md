@@ -13,7 +13,7 @@
 
 <br />
   
-
+## 🌐 Connect with me:
 <a href="https://vk.com/your_profile">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -26,7 +26,7 @@
 
 
 <br />
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=monokai)
+
+<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=monokai)
