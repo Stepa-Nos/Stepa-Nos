@@ -20,6 +20,7 @@
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+<br />
 
 ## :email: Find me on:
 <a href="https://t.me/your_profile">
@@ -32,6 +33,8 @@
 [<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
+<br />
 
 ## :trophy: My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=monokai)
