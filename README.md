@@ -31,15 +31,6 @@
 
 
 <br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
   
 
 </p>
@@ -48,7 +39,7 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Нормально его отредактироват, ибо я всё скопировал)
-* [ ] найти нормальные фото Languages and Tools
+* [x] найти нормальные фото Languages and Tools
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
@@ -60,5 +51,5 @@
 * No Author of many Go tools
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=gradient)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=Gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=monokai)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=monokai)
