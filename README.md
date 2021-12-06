@@ -17,10 +17,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stepa-Nos&show_icons=true&theme=monokai)
 <br />
 
-## 🌐 Connect with me:
-<a href="https://t.me/S_tepa">
-  <img align="left" alt="Stepa's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
-  <img align="left" alt="LinkdeIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
