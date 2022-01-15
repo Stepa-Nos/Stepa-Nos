@@ -2,7 +2,7 @@
 Меня зовут Степан, я студент. Сейчас изучаю много интересных технологий)
 
 ## 🧰 Languages and Tools:
-![Golang](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg)
+![Golang]<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
