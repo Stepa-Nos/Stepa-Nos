@@ -1,5 +1,5 @@
 # Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Меня зовут Степан, я студент. Сейчас изучаю много интересных технологий)
+Меня зовут Степан. Сейчас изучаю backend на Golang
 
 ## 🧰 Languages and Tools:
 * Golang — <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
