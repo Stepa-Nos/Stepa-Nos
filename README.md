@@ -11,7 +11,6 @@ My name is Stepan) I am QA Engineer
 
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
 ![Header](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go&logoColor=blue)
-![Header](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=blue)
 ![Header](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html)
 ![Header](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
 
