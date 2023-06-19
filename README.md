@@ -23,7 +23,7 @@ My name is Stepan) I am QA Engineer
 <br />
 
 ## My contact
-My linkedin - Link
+[![Header](https://img.shields.io/badge/Linkedin-090909style=for-thebadge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/stepan-nosov/)
 
 ## :trophy: My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepa-Nos&show_icons=true&theme=monokai)
